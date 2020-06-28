@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de45fb00-a323-4959-af64-b3e9de14eb6f" name="Default Changelist" comment="" />
+    <list default="true" id="de45fb00-a323-4959-af64-b3e9de14eb6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../GenericsFromOracle/GenericsFromOracle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsFromOracle/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsFromOracle/src/com/company/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsFromOracle/src/com/company/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsFromOracle/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsFromOracle/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsFromOracle/src/com/company/Pages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsFromOracle/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/Sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadInterrupt/src/com/company/SeparateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/Threads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/src/com/company/AnotherThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/src/com/company/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/src/com/company/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads2Sleep/src/com/company/SeparateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAnonymousClass/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAnonymousClass/testAnonymousClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasting2/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasting2/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasting2/testCasting2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testClassCastException/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGenerics/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGenerics/src/com/company/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGenerics/src/com/company/Buggati.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGenerics/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGenerics/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGenerics2/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGenerics2/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGenerics2/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testImportStatic/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testImportStatic/src/com/example/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testImportStatic/testImportStatic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstaPostCodingNinjas/testInstaPostCodingNinjas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedCast/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedCast/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedCast/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedCast/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedCast/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedCast/src/com/company/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedCast/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedCast/testUncheckedCast.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedWarnings/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedWarnings/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedWarningsFinal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedWarningsFinal/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedWarningsFinal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUncheckedWarningsFinal/testUncheckedWarningsFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testforEachloop/testforEachloop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgenericsfinal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgenericsfinal/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgenericsfinal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgenericsfinal/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgenericsfinal/src/com/company/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgenericsfinal/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgenericsfinal/testgenericsfinal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testArrayList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testClassCastException/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testClassCastException/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testInstaCodingNinjas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testInstaCodingNinjas/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +82,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YdADbNc0QgUeZlCL28XLDVgz01" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testUpCatingDownCasting" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
