@@ -1,7 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2a02c2b-f432-4767-b78f-a8b736f0a309" name="Default Changelist" comment="" />
+    <list default="true" id="b2a02c2b-f432-4767-b78f-a8b736f0a309" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingNinjaHireProble2maxSubArrayOfones/CodingNinjaHireProble2maxSubArrayOfones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeutscheBankQuestion/DeutscheBankQuestion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeutscheBankQuestion/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeutscheBankQuestion/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeutscheBankQuestion/src/com/company/HackerEarth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../]]/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../staticDataMembersInitialization/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../staticDataMembersInitialization/staticDataMembersInitialization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2DArrayWithoutSize/test2DArrayWithoutSize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test@DArrays/test@DArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAnnonymousClass/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAnnonymousClass/testAnnonymousClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAnnonymousClassHIerarchy/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAnnonymousClassHIerarchy/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAnnonymousClassHIerarchy/testAnnonymousClassHIerarchy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAssigningToReference/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAssigningToReference/testAssigningToReference.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testClassFieldsinInheritance/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testClassFieldsinInheritance/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testClassFieldsinInheritance/testClassFieldsinInheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testClassMembersAsAnnonymousInnerClass/src/com/company/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testClassMembersAsAnnonymousInnerClass/testClassMembersAsAnnonymousInnerClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCompileTimeTypeChecking/src/com/company/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCompileTimeTypeChecking/testCompileTimeTypeChecking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testConstrcutorCall/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testConstrcutorCall/testConstrcutorCall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCopyConstrctor/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCopyConstrctor/testCopyConstrctor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testDefaultvalue/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testDefaultvalue/testDefaultvalue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testDynamicBinding/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testDynamicBinding/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testDynamicBinding/testDynamicBinding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testEqualityOfStrings/testEqualityOfStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testEqualoityOfStrings/testEqualoityOfStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFaceBookpost20july/testFaceBookpost20july.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFaceBoolkpost7july/testFaceBoolkpost7july.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFieldInheritance/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFieldInheritance/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFieldInheritance/testFieldInheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFieldInheritance2/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFieldInheritance2/testFieldInheritance2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFinalFieldsInInheritance/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFinalFieldsInInheritance/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testFinalFieldsInInheritance/testFinalFieldsInInheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGoldmanSachs/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGoldmanSachs/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGoldmanSachs/testGoldmanSachs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGoldmanSachsJava/src/com/company/EquiTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGoldmanSachsJava/src/com/company/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGoldmanSachsJava/src/com/company/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testGoldmanSachsJava/testGoldmanSachsJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInnerClassMembers/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInnerClassMembers/testInnerClassMembers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstanceOfOperator/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstanceOfOperator/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testInstanceOfOperator/testInstanceOfOperator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJaggedArrays/testJaggedArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJaggeddArrays/testJaggeddArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavaDoubts/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavaDoubts/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavaDoubts/src/com/company/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavaDoubts/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavaDoubts/src/com/company/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavaDoubts/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJavaDoubts/testJavaDoubts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMethodOverridingAndVariable shadowingorHiding/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMethodOverridingAndVariable shadowingorHiding/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMethodOverridingAndVariable shadowingorHiding/testMethodOverridingAndVariable shadowingorHiding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMultipleThreading/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMultipleThreading/testMultipleThreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testOPerator Precedence/testOPerator Precedence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testObjectHashCode/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testObjectHashCode/testObjectHashCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testObjecthashcode2/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testObjecthashcode2/src/com/company/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testObjecthashcode2/testObjecthashcode2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testOutputtingObject/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testOutputtingObject/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testOutputtingObject/testOutputtingObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrecision/testPrecision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrivateFieldAccess/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrivateFieldAccess/testPrivateFieldAccess.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrivateFieldsInInheritance/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrivateFieldsInInheritance/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrivateFieldsInInheritance/testPrivateFieldsInInheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSelfrefrentialObject/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSelfrefrentialObject/testSelfrefrentialObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStatic/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStatic/testStatic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStaticInnerClass/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStaticInnerClass/testStaticInnerClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStaticMethodRecursion/testStaticMethodRecursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStringPool/testStringPool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testStringPoolAndStringObjectinHeap/testStringPoolAndStringObjectinHeap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testThisKeywordRunTimePolymorphism/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testThisKeywordRunTimePolymorphism/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testThisKeywordRunTimePolymorphism/testThisKeywordRunTimePolymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testThreading/testThreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testThrowException/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testThrowException/testThrowException.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testTypeErasure/testTypeErasure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUpcastingDowncasting/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUpcastingDowncasting/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testUpcastingDowncasting/testUpcastingDowncasting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testVarun/testVarun.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testWideningCastinginExpression/testWideningCastinginExpression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testfacebookPost9July/testfacebookPost9July.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testhashCode3/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testhashCode3/testhashCode3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractAndInterfaceDifference/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractAndInterfaceDifference/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Static/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Static/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,14 +132,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Vmt7spPIXoxvvmDI7bhtqbSgsb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Inner-and-Abstract-Classes-&amp;-Interfaces-Interfaces-Challenge-Part-2-Source-code" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -67,33 +190,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="285" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1577879783243">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1610441368437">
+      <screen x="0" y="0" width="1920" height="1048" />
     </state>
-    <state x="285" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1577879783243" />
-    <state x="260" y="284" key="FileChooserDialogImpl" timestamp="1577870207567">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1048@0.0.1920.1048" timestamp="1610441368437" />
+    <state x="342" y="145" key="new project wizard" timestamp="1610441401139">
+      <screen x="0" y="0" width="1920" height="1048" />
     </state>
-    <state x="260" y="284" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1577870207567" />
-    <state width="914" height="285" key="GridCell.Tab.0.bottom" timestamp="1577898151838">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="914" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1577898151838" />
-    <state width="914" height="285" key="GridCell.Tab.0.center" timestamp="1577898151837">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="914" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1577898151837" />
-    <state width="914" height="285" key="GridCell.Tab.0.left" timestamp="1577898151837">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="914" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1577898151837" />
-    <state width="914" height="285" key="GridCell.Tab.0.right" timestamp="1577898151837">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="914" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1577898151837" />
-    <state x="0" y="150" key="new project wizard" timestamp="1577884022332">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="0" y="150" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1577884022332" />
+    <state x="342" y="145" key="new project wizard/0.0.1920.1048@0.0.1920.1048" timestamp="1610441401139" />
   </component>
 </project>

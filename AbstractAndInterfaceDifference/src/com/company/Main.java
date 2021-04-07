@@ -9,7 +9,7 @@ public class Main {
          * 1. Abstract Classes are similar to interfaces, you cannot instantiate them, and
          *      they may contain a mix of methods declared with or without implementation.
          *
-         * 2. However, with Abstract Classes, you can declare fields taht are not static and final,
+         * 2. However, with Abstract Classes, you can declare fields that are not static and final,
          * and define public, protected, and private concrete methods.
          *
          * 3. An Abstract Class can extend only oner parent class but it can implement multiple interfaces.

@@ -2,6 +2,7 @@ package com.company;
 
 public abstract class Animal {
     private final String name;
+    public String schoolName;
 
     public Animal(String name) {
         this.name = name;
